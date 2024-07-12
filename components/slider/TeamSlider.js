@@ -57,7 +57,7 @@ export default function TeamSlider() {
                                 <div className="image">
                                     <img src="/assets/images/team/02.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team2">Stephen Oladoke</Link></h4>
+                                <h4 className="name"><Link href="/">Stephen Oladoke</Link></h4>
                                 <p className="position">Senior Business Developer</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
@@ -72,9 +72,9 @@ export default function TeamSlider() {
                         <div className="slider-item">
                             <div className="tf-team">
                                 <div className="image">
-                                    <img src="/assets/images/team/team-3.jpg" alt="Image" />
+                                    <img src="/assets/images/team/04.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team3">Carla Williams</Link></h4>
+                                <h4 className="name"><Link href="/">Carla Williams</Link></h4>
                                 <p className="position">Senior Project Manager</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>

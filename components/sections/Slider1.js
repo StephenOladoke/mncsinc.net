@@ -24,14 +24,14 @@ export default function Slider1() {
                                         <div className="slider-item">
                                             <div className="tf-slider-item style-3">
                                                 <div className="content-inner">
-                                                    <h1 className="heading mb0">WE ENSURE
+                                                    <h1 className="heading mb0">WE PROVIDE
                                                         <span className="animationtext clip">
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    'PROGRAM OVERSIGHT',
+                                                                    '245D HCBS SERVICES',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                                                    'BUSINESSES',
+                                                                    'ENSURING COMPLIANCE',
                                                                     1000,
                                                                     ' ',
                                                                     1000,
@@ -61,11 +61,10 @@ export default function Slider1() {
                                                             <h6>Completed Caseloads</h6>
                                                         </div>
                                                     </div>
-                                                    <div className="btn-slider ">
+                                                    {/* <div className="btn-slider ">
                                                         <Link href="#" className="tf-button " data-toggle="modal" data-target="#popup_bid">CONTACT US</Link>
-                                                        <Link href="/collection" className="tf-button style-2">WHITELIST
-                                                            NOW</Link>
-                                                    </div>
+                                                        <Link href="/collection" className="tf-button style-2">Our Services</Link>
+                                                    </div> */}
                                                 </div>
                                                 <div className="image">
                                                     {/* <img src="/assets/images/slider/slider-8.png" alt="Image" className="img ani5" /> */}
@@ -79,14 +78,14 @@ export default function Slider1() {
                                         <div className="slider-item">
                                             <div className="tf-slider-item style-3">
                                                 <div className="content-inner">
-                                                    <h1 className="heading mb0">WE ENSURE
+                                                    <h1 className="heading mb0">WE PROVIDE
                                                         <span className="animationtext clip">
                                                             <TypeAnimation
                                                                 sequence={[
                                                                     // Same substring at the start will only be typed out once, initially
-                                                                    'PROGRAM OVERSIGHT',
+                                                                    '245D HCBS SERVICES',
                                                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                                                    'BUSINESSES',
+                                                                    'ENSURING COMPLIANCE',
                                                                     1000,
                                                                     ' ',
                                                                     1000,
@@ -116,11 +115,10 @@ export default function Slider1() {
                                                             <h6>Completed Caseloads</h6>
                                                         </div>
                                                     </div>
-                                                    <div className="btn-slider ">
+                                                    {/* <div className="btn-slider ">
                                                         <Link href="#" className="tf-button " data-toggle="modal" data-target="#popup_bid">CONTACT US</Link>
-                                                        <Link href="/collection" className="tf-button style-2">WHITELIST
-                                                            NOW</Link>
-                                                    </div>
+                                                        <Link href="/collection" className="tf-button style-2">Our Services</Link>
+                                                    </div> */}
                                                 </div>
                                                 <div className="image">
                                                     {/* <img src="/assets/images/slider/slider-8.png" alt="Image" className="img ani5" /> */}

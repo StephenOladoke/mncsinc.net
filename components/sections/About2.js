@@ -64,7 +64,7 @@ export default function About2() {
                                     </div>
                                 </div>
                             </div>
-                            <Link href="/about1" className="tf-button style-2 wow fadeInUp">READ MORE</Link>
+                            {/* <Link href="/about1" className="tf-button style-2 wow fadeInUp">READ MORE</Link> */}
                         </div>
                         <div className="col-xl-6 col-lg-7 col-md-12">
                             <div className="row">

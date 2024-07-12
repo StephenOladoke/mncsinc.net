@@ -44,9 +44,16 @@ export default function Team() {
                                         <h2 className="name">Larry Ajala</h2>
                                         <h3 className="title">About</h3>
                                         <p className="description">
-                                            Community Services Of Minnesota Inc. is owned and operated by Larry Ajala, located in Anoka Minnesota, Larry Recently celebrated 10+ years working in human services field as a combined 
-                                            10 years + of 245D/Assisted living service experience between him and his team. The mission of Commnity Services Of Minnesota Inc. as coach Larry is to provide fast and reliable services
-                                            in auditing, consulting, coaching, and staff development.
+                                            Community Services Of Minnesota Inc. is owned and operated by Larry Ajala, located in Andover Minnesota, Larry Recently celebrated 15+ years working in health care and human services field.
+                                            He started as a Direct Care worker for level 4 group homes, and gradually expanded into management where he worked as a Designated Coordinator for adult and youth services. He then moved on to 
+                                            become a consultant/Coach where he partnered with several agencies over the last few years.<br/>
+                                            <br/>
+
+                                  
+                                            The mission of Commnity Services Of Minnesota Inc. as coach Larry is to provide fast and reliable services in auditing, consulting, coaching, and staff development.
+
+ 
+
                                         </p>
                                         <h3 className="title mb14">Contact</h3>
                                         <div className="contact-infor">
@@ -122,7 +129,7 @@ export default function Team() {
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12 ">
                                     <div className="tf-team active">
                                         <div className="image">
-                                            <img src="/assets/images/team/team-2.jpg" alt="Image" />
+                                            <img src="/assets/images/team/02.jpg" alt="Image" />
                                         </div>
                                         <h4 className="name"><Link href="/team">Stephen Oladoke</Link></h4>
                                         <p className="position">Senior Business Developer</p>
@@ -137,7 +144,7 @@ export default function Team() {
                                 <div className="col-lg-3 col-md-4 col-sm-6 col-12 ">
                                     <div className="tf-team">
                                         <div className="image">
-                                            <img src="/assets/images/team/team-3.jpg" alt="Image" />
+                                            <img src="/assets/images/team/04.jpg" alt="Image" />
                                         </div>
                                         <h4 className="name"><Link href="/team">Carla Williams</Link></h4>
                                         <p className="position">Senior Project Manager</p>
