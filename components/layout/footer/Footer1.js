@@ -11,8 +11,7 @@ export default function Footer1() {
                             <div className="col-md-12">
                                 <div className="action-box-inner">
                                     <h2 className="title">JOIN OUR COMMUNITY</h2>
-                                    <p className="content">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                        industry. </p>
+                                    <p className="content">Stay informed, share experiences, and collaborate on improving home care services for everyone.</p>
                                     <div className="group-btn">
                                         <Link href="/contact" className="tf-button discord" data-toggle="modal" data-target="#popup_bid"><i className="icon-fl-vt" /><span>DISCORD</span></Link>
                                         <Link href="/collection" className="tf-button">WHITELIST NOW</Link>
