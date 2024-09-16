@@ -82,7 +82,7 @@ export default function Team3() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-7.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Devon Lane</Link></h4>
+                                <h4 className="name"><Link href="/team">Jessika Nolen</Link></h4>
                                 <p className="position">Ux Architect</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>

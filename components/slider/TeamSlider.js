@@ -44,9 +44,9 @@ export default function TeamSlider() {
                                 <p className="position">CEO/Founder</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
+                                    <li><Link href="mailto:info@mncsinc.net"><i className="fas fa-envelope" /></Link></li>
+                                    {/* <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
+                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li> */}
                                 </ul>
                             </div>
                         </div>{/* item*/}
@@ -61,9 +61,10 @@ export default function TeamSlider() {
                                 <p className="position">Senior Business Developer</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
+                                    <li><Link href="mailto:stephen@mncsinc.net"><i className="fas fa-envelope" /></Link></li>
+
+                                    {/* <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
+                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li> */}
                                 </ul>
                             </div>
                         </div>{/* item*/}
@@ -78,9 +79,10 @@ export default function TeamSlider() {
                                 <p className="position">Senior Project Manager</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
+                                    <li><Link href="mailto:carla@mncsinc.net"><i className="fas fa-envelope" /></Link></li>
+
+                                    {/* <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
+                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li> */}
                                 </ul>
                             </div>
                         </div>{/* item*/}
@@ -91,18 +93,19 @@ export default function TeamSlider() {
                                 <div className="image">
                                     <img src="/assets/images/team/team-4.jpg" alt="Image" />
                                 </div>
-                                <h4 className="name"><Link href="/team">Esther Howard</Link></h4>
-                                <p className="position">Project Manager</p>
+                                <h4 className="name"><Link href="/team">Jessika Nolen</Link></h4>
+                                <p className="position">Adminstrative coordinator</p>
                                 <ul className="social">
                                     <li><Link href="#"><i className="fab fa-linkedin" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
-                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
+                                    <li><Link href="mailto:jessika@mncsinc.net"><i className="fas fa-envelope" /></Link></li>
+
+                                    {/* <li><Link href="#"><i className="fab fa-instagram" /></Link></li>
+                                    <li><Link href="#"><i className="fab fa-telegram" /></Link></li> */}
                                 </ul>
                             </div>
                         </div>{/* item*/}
                     </SwiperSlide>
-                    <SwiperSlide>
+                    {/* <SwiperSlide>
                         <div className="slider-item">
                             <div className="tf-team">
                                 <div className="image">
@@ -117,9 +120,9 @@ export default function TeamSlider() {
                                     <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
                                 </ul>
                             </div>
-                        </div>{/* item*/}
-                    </SwiperSlide>
-                    <SwiperSlide>
+                        </div>
+                    </SwiperSlide> */}
+                    {/* <SwiperSlide>
                         <div className="slider-item">
                             <div className="tf-team">
                                 <div className="image">
@@ -134,8 +137,8 @@ export default function TeamSlider() {
                                     <li><Link href="#"><i className="fab fa-telegram" /></Link></li>
                                 </ul>
                             </div>
-                        </div>{/* item*/}
-                    </SwiperSlide>
+                        </div>
+                    </SwiperSlide> */}
                 </Swiper>
             </div>
             <div className="swiper-button-prev button-team-prev" />

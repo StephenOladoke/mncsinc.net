@@ -135,7 +135,7 @@ export default function Collection1() {
                                                 <div className="image">
                                                     <img src="/assets/images/product/06.jpg" alt="Image" />
                                                 </div>
-                                                <h6 className="name"><Link href="">Qualified Porfessional(QP) #06</Link></h6>
+                                                <h6 className="name"><Link href="">Qualified Professional(QP) #06</Link></h6>
                                             </div>
                                         </div>{/* item*/}
                                     </SwiperSlide>
@@ -145,7 +145,7 @@ export default function Collection1() {
                                                 <div className="image">
                                                     <img src="/assets/images/product/06.jpg" alt="Image" />
                                                 </div>
-                                                <h6 className="name"><Link href="">Qualified Supervising Porfessional(QSP) #07</Link></h6>
+                                                <h6 className="name"><Link href="">Qualified Supervising Professional(QSP) #07</Link></h6>
                                             </div>
                                         </div>{/* item*/}
                                     </SwiperSlide>

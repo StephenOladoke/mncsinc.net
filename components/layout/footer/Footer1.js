@@ -12,10 +12,10 @@ export default function Footer1() {
                                 <div className="action-box-inner">
                                     <h2 className="title">JOIN OUR COMMUNITY</h2>
                                     <p className="content">Stay informed, share experiences, and collaborate on improving home care services for everyone.</p>
-                                    <div className="group-btn">
+                                    {/* <div className="group-btn">
                                         <Link href="/contact" className="tf-button discord" data-toggle="modal" data-target="#popup_bid"><i className="icon-fl-vt" /><span>DISCORD</span></Link>
                                         <Link href="/collection" className="tf-button">WHITELIST NOW</Link>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@ export default function Footer1() {
                                     <div className="logo">
                                         <img id="logo_footer" src="/assets/images/logo/01.png" alt="Image" />
                                     </div>
-                                    <p className="content">We are the best way to check the rarity of NFT collection.</p>
+                                    {/* <p className="content">We are the best way to check the rarity of NFT collection.</p> */}
                                 </div>
                             </div>
                             <div className="col-xl-4 col-lg-4 col-md-12">
@@ -38,7 +38,7 @@ export default function Footer1() {
                                         <h6 className="widget-title">SUBSCRIBE</h6>
                                         <ul>
                                             <li><Link href="/">Home</Link></li>
-                                            <li><Link href="/about1">About</Link></li>
+                                            <li><Link href="/about2">About</Link></li>
                                             <li><Link href="/roadmap-1">Roadmap</Link></li>
                                             <li><Link href="/team">Our Team</Link></li>
                                             <li><Link href="/faq1">FAQs</Link></li>
@@ -76,10 +76,10 @@ export default function Footer1() {
                                     <ul className="social-item">
                                         <li><Link href="#"><i className="fab fa-twitter" /></Link></li>
                                         <li><Link href="#"><i className="fab fa-facebook" /></Link></li>
-                                        <li><Link href="#"><i className="fab fa-telegram-plane" /></Link></li>
+                                        {/* <li><Link href="#"><i className="fab fa-telegram-plane" /></Link></li> */}
                                         <li><Link href="#"><i className="fab fa-youtube" /></Link></li>
-                                        <li><Link href="#"><i className="icon-fl-tik-tok-2" /></Link></li>
-                                        <li><Link href="#"><i className="icon-fl-vt" /></Link></li>
+                                        {/* <li><Link href="#"><i className="icon-fl-tik-tok-2" /></Link></li>
+                                        <li><Link href="#"><i className="icon-fl-vt" /></Link></li> */}
                                     </ul>
                                 </div>
                             </div>
